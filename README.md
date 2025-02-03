@@ -7,53 +7,16 @@ Chrome version: Version 132.0.6834.160 (Official Build) (arm64)
 Safari version: Version 18.2 (20620.1.16.11.8)
 ipad Air M1 Ipad OS 18.2.1 
 
-## Image 1: Basic counter app on Mac Chrome  
+## Flutter 3.27.3 
+
+## Image 1: Basic Counter App on Mac Chrome  
+![Mac Chrome Counter App](./images/image_3_27_3_chrome_pc.png)
+
+## Image 2: Basic Counter App on Mac Safari  
+![Mac Safari Counter App](./images/image_3_27_3_safari_pc.png)
+
+## Image 3: Basic Counter App on Safari iPad  
+![Safari iPad Counter App](./images/image_3_27_3_safari_ipad.png)
 
 
-```markdown
-![Local Image](./images/image_3_27_3_chrome_pc.png)
-
-Doctor summary (to see all details, run flutter doctor -v):
-[✓] Flutter (Channel stable, 3.27.3, on macOS 15.2 24C101 darwin-arm64, locale en-US)
-[✓] Android toolchain - develop for Android devices (Android SDK version 35.0.0)
-[✓] Xcode - develop for iOS and macOS (Xcode 16.2)
-[✓] Chrome - develop for the web
-[✓] Android Studio (version 2024.2)
-[✓] VS Code (version 1.96.4)
-[✓] Connected device (5 available)
-[✓] Network resources
-
-
-
-## Image 2: Basic counter app on Mac Safari  
-
-
-```markdown
-![Local Image](./images/image_3_27_3_safari_pc.png)
-
-Doctor summary (to see all details, run flutter doctor -v):
-[✓] Flutter (Channel stable, 3.27.3, on macOS 15.2 24C101 darwin-arm64, locale en-US)
-[✓] Android toolchain - develop for Android devices (Android SDK version 35.0.0)
-[✓] Xcode - develop for iOS and macOS (Xcode 16.2)
-[✓] Chrome - develop for the web
-[✓] Android Studio (version 2024.2)
-[✓] VS Code (version 1.96.4)
-[✓] Connected device (5 available)
-[✓] Network resources
-
-
-## Image 3: Basic counter app on Safari Ipad  
-
-
-```markdown
-![Local Image](./image_3_27_3_safari_ipad.png)
-
-Doctor summary (to see all details, run flutter doctor -v):
-[✓] Flutter (Channel stable, 3.27.3, on macOS 15.2 24C101 darwin-arm64, locale en-US)
-[✓] Android toolchain - develop for Android devices (Android SDK version 35.0.0)
-[✓] Xcode - develop for iOS and macOS (Xcode 16.2)
-[✓] Chrome - develop for the web
-[✓] Android Studio (version 2024.2)
-[✓] VS Code (version 1.96.4)
-[✓] Connected device (5 available)
-[✓] Network resources
+## Flutter 3.22.2
