@@ -76,16 +76,30 @@ Safari iPad: 431Mb
 ## Image 3: Basic Counter App on Safari iPad  
 ![Safari iPad Counter App](./images/image_3_19_6_safari_ipad.png)
 
-## Flutter 3.16.2
+## Flutter 3.16.2 canvaskit
 summery:
 Mac Chrome: 39Mb
 Mac Safari: 400Gb
-Safari iPad: 431Mb
+Safari iPad: 1.47Mb
+## Image 1: DI1 App on Mac Chrome  
+![Mac Chrome DI1 canvaskit App](.images/image_3_16_2_DI1_chrome_pc_canvaskit.png)
+
+## Image 2: DI1 App on Mac Safari  
+![Mac Safari DI1 canvaskit App](.images/image_3_16_2_DI1_safari_pc_canvaskit.png)
+
+## Image 3: DI1 App on Safari iPad  
+![Safari iPad DI1 canvaskit App](.images/image_3_16_2_DI1_safari_Ipad_canvaskit.png)
+
+## Flutter 3.16.2 html
+summery:
+Mac Chrome: 50Mb
+Mac Safari: 275Gb
+Safari iPad: 1.39Mb
 ## Image 1: DI1 App on Mac Chrome  
 ![Mac Chrome Counter App](.images/image_3_16_2_DI1_chrome_pc_canvaskit.png)
 
 ## Image 2: DI1 App on Mac Safari  
-![Mac Safari Counter App](.images/image_3_16_2_DI1_safari_pc_canvaskit.png)
+![Mac Safari DI1 html App](.images/image_3_16_2_DI1_safari_pc_html.png)
 
 ## Image 3: DI1 App on Safari iPad  
-![Safari iPad Counter App](.images/image_3_16_2_DI1_safari_Ipad_canvaskit.png)
+![Safari iPad DI1 html App](.images/image_3_16_2_DI1_safari_ipad_html.png)
