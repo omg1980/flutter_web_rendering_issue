@@ -24,11 +24,11 @@ Safari iPad: 387Mb
 ## Image 3: Basic Counter App on Safari iPad  
 ![Safari iPad Counter App](./images/image_3_27_3_safari_ipad.png)
 
-## Flutter 3.22.2
+## Flutter 3.24.0
 summery:
-Mac Chrome: 18Mb
-Mac Safari: 400Mb
-Safari iPad: 68Mb
+Mac Chrome: 22Mb
+Mac Safari: 807Mb
+Safari iPad: 389Mb
 ## Image 1: Basic Counter App on Mac Chrome  
 ![Mac Chrome Counter App](./images/image_3_24_0_chrome_pc.png)
 
@@ -38,7 +38,7 @@ Safari iPad: 68Mb
 ## Image 3: Basic Counter App on Safari iPad  
 ![Safari iPad Counter App](./images/image_3_24_0_safari_ipad.png)
 
-## Flutter 3.24.0
+## Flutter 3.22.2
 summery:
 Mac Chrome: 18Mb
 Mac Safari: 400Mb
