@@ -28,7 +28,11 @@ Safari iPad: 387Mb
 summery:
 Mac Chrome: 22Mb
 Mac Safari: 807Mb
-Safari iPad: 389Mb
+Safari iPad: 389Mb  
+summery canvaskit:
+Mac chrome: 22Mb
+Mac Safari: 664Mb
+Ipad Safari: 423Mb
 ## Image 1: Basic Counter App on Mac Chrome  
 ![Mac Chrome Counter App](./images/image_3_24_0_chrome_pc.png)
 
