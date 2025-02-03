@@ -20,3 +20,12 @@ ipad Air M1 Ipad OS 18.2.1
 
 
 ## Flutter 3.22.2
+
+## Image 1: Basic Counter App on Mac Chrome  
+![Mac Chrome Counter App](./images/image_3_22_2_chrome_pc.png)
+
+## Image 2: Basic Counter App on Mac Safari  
+![Mac Safari Counter App](./images/image_3_22_2_safari_pc.png)
+
+## Image 3: Basic Counter App on Safari iPad  
+![Safari iPad Counter App](./images/image_3_22_2_safari_ipad.png)
