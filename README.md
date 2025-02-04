@@ -1,7 +1,7 @@
-# Latest Flutter for Web Rendering issue
+# Flutter for Web Rendering versions issue
 
 ## Introduction
-It's reveled that flutter has memory leaks issue with the latest versions used on web
+It's appeared that flutter has memory leaks issue with the latest and previous versions deployed on web
 
 Chrome version: Version 132.0.6834.160 (Official Build) (arm64)
 Safari version: Version 18.2 (20620.1.16.11.8)
@@ -76,11 +76,40 @@ Safari iPad: 431Mb
 ## Image 3: Basic Counter App on Safari iPad  
 ![Safari iPad Counter App](./images/image_3_19_6_safari_ipad.png)
 
+## Flutter 3.16.2
+summery html:
+Mac Chrome: 18Mb
+Mac Safari: 65Mb
+Safari iPad: 140Mb  
+## Image 1: Basic Counter App on Mac Chrome  
+![Mac Chrome Counter App](./images/image_3_16_2_chrome_pc.png)
+
+## Image 2: Basic Counter App on Mac Safari  
+![Mac Safari Counter App](./images/image_3_19_2_safari_pc.png)
+
+## Image 3: Basic Counter App on Safari iPad  
+![Safari iPad Counter App](./images/image_3_16_2_safari_ipad.png)
+
+
+summery canvaskit:
+Mac chrome: 18Mb
+Mac Safari: 73Mb
+Ipad Safari: 104Mb
+## Image 1: Basic Counter App on Mac Chrome  
+![Mac Chrome Counter App](.images/image_3_16_2_chrome_pc_canvaskit.png)
+
+## Image 2: Basic Counter App on Mac Safari  
+![Mac Safari Counter App](.images/image_3_16_2_safari_pc_canvaskit.png)
+
+## Image 3: Basic Counter App on Safari iPad  
+![Safari iPad Counter App](./images/image_3_22_2_safari_ipad.png)
+
+
 ## Flutter 3.16.2 canvaskit
 summery:
 Mac Chrome: 39Mb
-Mac Safari: 400Gb
-Safari iPad: 1.47Mb
+Mac Safari: 400Mb
+Safari iPad: 1.47Gb
 ## Image 1: DI1 App on Mac Chrome  
 ![Mac Chrome DI1 canvaskit App](.images/image_3_16_2_DI1_chrome_pc_canvaskit.png)
 
@@ -93,8 +122,8 @@ Safari iPad: 1.47Mb
 ## Flutter 3.16.2 html
 summery:
 Mac Chrome: 50Mb
-Mac Safari: 275Gb
-Safari iPad: 1.39Mb
+Mac Safari: 94Mb
+Safari iPad: 1.39Gb
 ## Image 1: DI1 App on Mac Chrome  
 ![Mac Chrome Counter App](.images/image_3_16_2_DI1_chrome_pc_canvaskit.png)
 
